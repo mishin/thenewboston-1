@@ -20,6 +20,8 @@ public class TextPlay extends Activity implements View.OnClickListener {
 	EditText input;
 	TextView display;
 	
+	// This is a Comment
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
