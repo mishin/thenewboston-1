@@ -21,6 +21,7 @@ public class TextPlay extends Activity implements View.OnClickListener {
 	TextView display;
 	
 	// This is a Comment
+	// Another Comment
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
